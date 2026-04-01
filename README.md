@@ -82,17 +82,10 @@ Due to GitHub file size limitations, large files are hosted externally.
 
 🔹 Model, Pretrained weights, test data, and calibration image 
 
-Download:
+Download:  https://kth-my.sharepoint.com/:u:/g/personal/momy_ug_kth_se/IQAEUCpM9uwBSa3lMVU87lRsAZRU8JWqNp_5SBw5b66fZbM?e=nzQa8u
+Password:  MMYoushanlouei
 
 -------
-
-## ▶️ Usage
-
-Run the full pipeline on sample data:
-
-```bash
-python src/pipeline/run_pipeline.py --input data/sample_images
-```
 
 Outputs include:
 
