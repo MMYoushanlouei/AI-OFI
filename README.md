@@ -76,6 +76,16 @@ Pretrained weights are available in:
 
 ----
 
+📥 Data & Pretrained Models
+
+Due to GitHub file size limitations, large files are hosted externally.
+
+🔹 Model, Pretrained weights, test data, and calibration image 
+
+Download:
+
+-------
+
 ## ▶️ Usage
 
 Run the full pipeline on sample data:
