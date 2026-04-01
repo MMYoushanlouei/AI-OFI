@@ -132,11 +132,16 @@ AI-OFI/
 
 If you use this repository, please cite:
 
-```bibtex
-@article{AI_OFI_2026,
+```
+@article{mehdizadeh2026automated,
   title={Automated Local Measurement of Wall Shear Stress with AI-Assisted Oil Film Interferometry},
+  author={Mehdizadeh Youshanlouei, Mohammad and Lazzarini, Lorenzo and Talamelli, Alessandro and Bellani, Gabriele and Rossi, Massimiliano},
   journal={Sensors},
-  year={2026}
+  volume={26},
+  number={2},
+  pages={701},
+  year={2026},
+  publisher={MDPI}
 }
 ```
 
